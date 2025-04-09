@@ -2398,3 +2398,34 @@ h6 {
   }
 }
 
+
+
+#experience {
+  padding: 50px;
+  background-color: #f5f5f5;
+}
+.experience-item {
+  margin-bottom: 30px;
+  padding: 20px;
+  border-left: 4px solid #fd4312;
+  background: white;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.Companyname{
+  font-size: 28px;
+  color: #fd4312;
+}
+.view-work-btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #fd4312;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.view-work-btn:hover {
+  background-color: #f55f36;
+}
